@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \"Get-Item -Path ''C:\\Users\\G614\\Desktop\\work\\fraud_detector'' | Get-Member\")",
+      "Bash(npm install)"
+    ]
+  }
+}
